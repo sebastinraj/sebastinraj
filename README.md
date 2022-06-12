@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sebastinraj
-- 👀 I’m interested in ...
 - 🌱 I’m a self taught frontend development 
 
 <!---
